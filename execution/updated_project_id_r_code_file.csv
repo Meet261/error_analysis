@@ -1,0 +1,561 @@
+Project ID,R Code File,Execution Status,Reason,Error Message
+25a6x,BeliefsScale_IRT_Rscript.R,Failed,Container Issue,Missing Package
+2j47e,Cluster analysis non-refined factor scores.R,Failed,Container Issue,Package Loading Failed
+2j47e,Cluster analysis refined factor scores.R,Failed,Container Issue,Package Loading Failed
+2j47e,Demographics.R,Failed,Container Issue,Package Loading Failed
+2j47e,Factor analysis.R,Failed,Code Issue,Object or File Missing
+2j47e,Figures.R,Failed,Code Issue,Object or File Missing
+2j47e,Reliability.R,Failed,Code Issue,Object or File Missing
+2phst,mse_values_for_density_smoother.R,Failed,Code Issue,Directory Change Failure
+2phst,mse_values_latent_space_diffusion_slurm.R,Failed,Container Issue,Missing Package
+2qjn5,dump_csv.R,Failed,Container Issue,Shared Library Not Found
+2qjn5,redraw_figures.R,Failed,Container Issue,PDF Cairo Stream Error
+2sguf,US attitude code.R,Failed,Container Issue,Shared Library Not Found
+2sz48,Model_Correctness.R,,,
+2sz48,Model_Preference.R,,,
+2uf8j,Negativity R.R,Failed,Code Issue,Missing Package
+2yq8a,figure2.R,Failed,Code Issue,PDF Generation Error - Requires Screen Device
+37rfb,prediction_analyses.R,Failed,Code Issue,RStudio Environment Error
+37rfb,prediction_plots.R,Failed,Code Issue,RStudio Environment Error
+3aryn,3 Variable Creation.R,,,
+3aryn,5 chisquare_Spanish.R,,,
+3aryn,6 speciesism graphs.R,,,
+3aryn,7 Animal Protection and Consumer Behaviors_Spanish.R,,,
+3aryn,9 Graphing speciesism_Spanish.R,,,
+3b59h,Analysis.R,Failed,Code Issue,Nonexistent Column
+3bn9u,4_1_deidentification.R,Failed,Container Issue,Package Loading Failed
+3bn9u,4_4_identification.R,Failed,Container Issue,Package Loading Failed
+3bpn6,af_homing_dataproc.R,Failed,Container Issue,Shared Library Not Found
+3bpn6,af_testosterone_analysis.R,Failed,Container Issue,Missing Package
+3bpn6,all_navigation_models.R,Failed,Container Issue,Missing Package
+3bpn6,all_spaceuse_dataproc.R,Failed,Container Issue,Missing Package
+3bpn6,dt_homing_dataproc.R,Failed,Container Issue,Shared Library Not Found
+3bpn6,os_homing_dataproc.R,Failed,Container Issue,Shared Library Not Found
+3bpn6,os_testosterone_analysis.R,Failed,Container Issue,Missing Package
+3bpn6,osylv_sitecomparison.R,Failed,Container Issue,Missing Package
+3fnjq,campaign_messages.R,Failed,Code Issue,Object or File Missing
+3fnjq,facebook_pages.R,Failed,Code Issue,Compressed File Not Found
+3fnjq,facebook_users.R,Failed,Code Issue,Object or File Missing
+3gfqn,VADIS_genitives_outer_circle.R,Failed,Container Issue,Shared Library Not Found
+3gfqn,VADIS_particles_InnerC-only.R,Failed,Container Issue,Shared Library Not Found
+3hgpe,01_data-preparation-variable-setup.R,Success,-,-
+3hgpe,02_analysis.R,Failed,Container Issue,Package Loading Failed
+3kem6,Rcode_Figure2.R,,,
+3uyjt,preprocessing_hrs.R,,,
+3uyjt,tree.R,,,
+3w8eg,All_Figures.R,Failed,Container Issue,Shared Library Not Found
+3wy58,bivariate_model_summer_revision.R,Failed,Container Issue,Missing Package
+3wy58,bivariate_model_winter_revision.R,Failed,Container Issue,Missing Package
+42nyv,Eye tracking_pre-processing_R1.R,Failed,Code Issue,Directory Change Failure
+49sq5,example_analysis.R,Failed,Code Issue,Missing Argument in setwd() Function
+4a9b6,EXPLORATORY_Gaze Following_ANALYSES.R,Failed,Code Issue,Directory Change Failure
+4a9b6,PrefLook_functions.r,Success,-,-
+4anzm,norms_code.R,Failed,Container Issue,File Read Error - Cannot Open Connection
+4fvwe,load_my_functions.R,Failed,Code Issue,Missing Function Definition
+4fvwe,print_result.R,Success,-,-
+4fvwe,return_BF_ttests.R,Success,-,-
+4g2tu,custom_functions.R,Success,-,-
+4kmdv,analysis code.R,Failed,Container Issue,Missing Package
+4sjxz,ScenePrimingCFS_Analysis.R,Failed,Container Issue,Missing Package
+4ya6x,R Code First Year Paper Cas Goos Analysis.R,,,
+53w96,INLA_GHG_GMD.R,Failed,Container Issue,Missing Package
+5ejcq,data_preperation_functions.R,Success,-,-
+5ezfk,ETfun.R,Success,-,-
+5ezfk,SWATCUPfunctions.R,Success,-,-
+5ezfk,SantaLuciaStationsToPCPFile.R,Failed,Container Issue,Missing Package
+5hpjn,NetworkToolbox.R,Failed,Container Issue,Shared Library Not Found
+5nh94,01b_fit_single_ergm.R,Failed,Container Issue,Package Loading Failed
+5nh94,F8_plot_efficiency_goodness_of_fit.R,Failed,Container Issue,Missing Package
+5qx7e,Descriptives_Tables_1_2_S1_S2.R,Failed,Container Issue,Package Loading Failed
+5s34w,simpd_helper.R,Success,-,-
+5te7n,return_effect_sizes.R,Success,-,-
+5te7n,save_get_pp_check.R,Success,-,-
+5xdbu,study2-rscript.R,Success,-,-
+5y27d,load_all_tables.R,Failed,Container Issue,File Read Error - Cannot Open Connection
+5y27d,tabulate_cases.R,Failed,Code Issue,Compressed File Not Found
+5yvnb,analyse_final_Exp5_OSF.R,Failed,Container Issue,Missing Package
+5yvnb,analyse_final_Exp6_OSF.R,Failed,Container Issue,Missing Package
+62je8,DMS-NRSA-CA-QC-Figures.R,Failed,Container Issue,Missing Package
+6579b,02_Main_Analyses.R,Failed,Container Issue,File Read Error - Cannot Open Connection
+6579b,03_Supplement.R,Failed,Container Issue,File Read Error - Cannot Open Connection
+67ncp,duque_etal_2019_rcode.R,Failed,Container Issue,Missing Package
+67ncp,duque_etal_2020_rcode.R,Failed,Container Issue,Missing Package
+6g4js,Analyses_Section_4.R,Success,-,-
+6g4js,Graphics_Section_5.R,,,
+6hx2n,DM_a_k.R,Failed,Code Issue,Object or File Missing
+6jmke,custom_functions.R,Success,-,-
+6krj7,01_add lag vars.R,,,
+6pq9e,Model.R,Failed,Container Issue,Missing Package
+6q73b,SubgroupStatsSimulationV5.R,Success,-,-
+6qej7,ECoach Functions.R,Success,-,-
+6ukwg,codes_reanalysis.R,Failed,Container Issue,Missing Package
+6ukwg,stuart.R,Failed,Container Issue,File Read Error - Cannot Open Connection
+6ukwg,utility_functions.R,Success,-,-
+6ya5d,Power_Analysis_OSF_22.R,Failed,Container Issue,Package Loading Failed
+6z79s,bi.conv.networks.R,Failed,Container Issue,Shared Library Not Found
+73y8p,RAQ-R_Analyses.R,Failed,Code Issue,Package Installation Failed
+73y8p,RAQ-R_reliability after exclusion.R,Failed,Code Issue,Compressed File Not Found
+74qnu,Script_Predicting_Social_Skill_Expression.R,Failed,Code Issue,Vector Replacement Length Mismatch
+7h94n,Malawi_interpolation.R,Failed,Container Issue,File Read Error - Cannot Open Connection
+7h94n,Malawi_ordination.R,Failed,Container Issue,File Read Error - Cannot Open Connection
+7mey8,stan_AWB_adriana_pools5i_vary_mic.r,Failed,Code Issue,Stan Modeling Error
+7mey8,stan_CON_adriana_pools5i.r,Failed,Code Issue,Stan Modeling Error
+7v4ep,Collaboration boosts career progression_part 1.R,Failed,Container Issue,Shared Library Not Found
+7v4ep,Collaboration boosts career progression_part 2.R,Failed,Container Issue,Package Loading Failed
+7vbj9,Analyses_Confirmatory.R,Failed,Container Issue,Missing Package
+7vbj9,Analyses_Exploratory.R,Failed,Container Issue,Missing Package
+7vbtr,Gyurkovics_Stafford_Levita_analyses.R,Failed,Container Issue,Missing Package
+7wd8e,06 - Trends.R,Failed,Container Issue,Missing Package
+7wd8e,06-Trends.R,,,
+7xsfj,Fig05To08.R,Failed,Code Issue,Function Call Error - Unknown Arguments
+7z3mk,t1-stan-5.R,Failed,Code Issue,Object or File Missing
+82dqk,PublicationCode2.R,,,
+8abj4,Exp1.R,Failed,Container Issue,Missing Package
+8abj4,Exp2.R,Failed,Container Issue,Missing Package
+8akru,workshop_example.R,Failed,Code Issue,Directory Change Failure
+8edp7,Social Factors COVID-19_Konrad.R,Failed,Code Issue,Invalid Function Argument
+8fsbd,IMDB_analysis.r,,,
+8fw3b,QPsyAnalyse.R,Failed,Code Issue,Directory Change Failure
+8fzns,0_Data-Prep.R,Failed,Code Issue,Object or File Missing
+8fzns,1_Get_Item-Params_TR.R,Failed,Container Issue,Missing Package
+8fzns,2H_Recode_helper.R,Success,-,-
+8fzns,2_Conditioning_Recode.R,Failed,Code Issue,No such file or directory
+8fzns,3H_IRT_helper.R,Success,-,-
+8fzns,3_IRT.R,Failed,Code Issue,No such file or directory
+8fzns,4H_PV_helper.R,Success,-,-
+92e6c,analyze_scan_model_hadza.R,Failed,Container Issue,Missing Package
+92e6c,fill_summary_table.R,Failed,Code Issue,Object or File Missing
+92e6c,hadza_combine_data.R,Failed,Container Issue,Missing Package
+92e6c,hadza_returns_model.R,Failed,Container Issue,File Read Error - Cannot Open Connection
+938ye,Apriori_group_differences.R,Failed,Container Issue,File Read Error - Cannot Open Connection
+938ye,Descriptive_statistics.R,Failed,Code Issue,RStudio Environment Error
+938ye,Statistical_models_no_T3_criticals.R,Failed,Code Issue,RStudio Environment Error
+94jyp,Ex1_ Data Wrangling_answers.R,Failed,Code Issue,Directory Change Failure
+94jyp,Ex2_BasicAnalysis_Answers.R,,,
+975k3,validation.med.R,,,
+9e3cu,BCA_activity_answers.R,Failed,Code Issue,Missing Function Definition
+9e3cu,BCA_dilution_answers.R,Failed,Code Issue,Missing Function Definition
+9e3cu,sat_curve.R,Success,-,-
+9e3cu,titration_answers.R,Failed,Code Issue,Missing Function Definition
+9e3cu,visualization_code.R,Success,-,-
+9gjyc,BRMS + Figure4.R,Success,-,-
+9gjyc,Simulations Evidence level.R,Failed,Container Issue,File Read Error - Cannot Open Connection
+9gq4a,Getting Started With R - Script Key.R,,,
+9jxzs,03_analysis_color.R,Failed,Code Issue,Package Folder Configuration Required
+9jxzs,07_analysis_rheology.R,Failed,Code Issue,Package Folder Configuration Required
+9jzfr,20180513 Study3 Analysis.R,,,
+9jzfr,20180714 Study1 analysis script.R,,,
+9jzfr,20180714 Study2 analysis script extra data.R,,,
+9jzfr,20180806 funnel plot life satisfaction.R,,,
+9jzfr,meta Big Five.R,,,
+9jzfr,meta Big Five extraversion.R,,,
+9mc84,preprocessing.R,Success,-,-
+9qbwv,helper.R,Success,-,-
+9tnmv,Exp1a_Election_post.R,,,
+9tnmv,Exp2_OnlineExp_POST.R,Success,-,-
+9tnmv,Exp4_buddhist_post.R,Success,-,-
+9vn68,Syntax_Sib paper 1_final_2021-02-12.R,,,
+9vr6q,summarise2.R,,,
+a3yd4,Functions_IRT.R,Success,-,-
+a6tuw,Online supplementary R-script c-surf samples.R,,,
+a8htx,SSK_Cleaned.R,,,
+a8htx,SSK_Cleaned_copy.R,,,
+a9bv6,sanet_2.R,Success,-,-
+abts4,DECEPTION-ProbitSDT-v1.R,Failed,Code Issue,File Selection Error
+aczx5,220423_Fig04_Use_JargExpl.R,Success,-,-
+aczx5,220423_Fig06_Under_JargExpl.R,Success,-,-
+aczx5,220423_FinalModelEstimation.R,,,
+ajf3h,02 generate Kbrevis time series.R,,,
+akywf,splithalf_table_function.R,,,
+amd3r,D_Wind_support_and_track_animation.R,,,
+amd3r,R_script_tables_and_figures.R,,,
+b4gc7,workshop_example.R,Failed,Code Issue,Directory Change Failure
+b5ydr,3-Cleancovariatesforgroupdesigns.R,,,
+b7krz,01_ML_bmr_resultsSummary.R,,,
+b7krz,02_IML_LASSO_FeatImp.R,,,
+b7krz,04_SOURCE_ExclusionCriteria.R,,,
+b7krz,Descriptives_Selfreports.R,,,
+b7krz,Enrichment_GPS_POIs_HERE_API.R,,,
+b7krz,ML_target_independent_preprocessing.R,,,
+b7krz,helper_JsonFormat.R,,,
+b7krz,helper_variables.R,,,
+b7krz,timestamp_correction.R,,,
+bfq39,Code_LMMs_BestPractice_Example_withOutput.R,Failed,Container Issue,File Read Error - Cannot Open Connection
+bfq39,Code_LMMs_Code_BestPractice_Example.R,Failed,Container Issue,File Read Error - Cannot Open Connection
+bhrwx,evaluation_data_analysis.R,Failed,Code Issue,Object or File Missing
+bhrwx,script_for_the_analysis_of_game_data.R,Failed,Code Issue,Missing Directory or Path
+bkuwa,main_analysis_code.R,Failed,Container Issue,Missing Package
+c8vfj,Analysis_Imitation_and_Token.R,Failed,Container Issue,Missing Package
+c93vs,exp01_prep.R,Failed,Code Issue,Directory Change Failure
+c93vs,exp02_prep.R,Failed,Code Issue,Directory Change Failure
+cd5r8,R_Code_Buffinton_MorganShort.R,Failed,Container Issue,Missing Package
+cd5r8,R_Code_Fang_Wu.R,Failed,Code Issue,File Not Found
+cd5r8,R_Code_Hui_et_al.R,Failed,Code Issue,File Not Found
+cd5r8,Sim_Function.R,Success,-,-
+cht59,01_tables_1_2.r,Failed,Code Issue,Compressed File Not Found
+cqsr8,boosting_xgbDART.R,Failed,Code Issue,Missing Function Definition
+cqsr8,plots.R,Failed,Code Issue,Missing Function Definition
+csy8q,process_pdf.R,Failed,Container Issue,Missing Package
+cxv5k,R_functions_Kimmoun_et_al_final.R,Success,-,-
+cxv5k,data_preparation.R,Success,-,-
+d3tg5,Manuscript_main analyses.R,Failed,Code Issue,Compressed File Not Found
+d4hjq,02_parameter_estimation.R,Success,-,-
+d9jny,Ter Schure (2021) R code ALL-IN meta-analysis paper.R,,,
+dcw4x,04_figures_estimates_marginal_means.R,Failed,Code Issue,Missing Package
+dez9b,BaIn_ANOVAinR.R,,,
+dgt8x,04-revisions.R,Failed,Code Issue,Object or File Missing
+dh32q,Positivity ratings R script.R,,,
+dhmjx,Experiment 4a - Analyses.R,,,
+dhmjx,Experiment S1 - Analyses.R,,,
+dkq3f,eda_brms.R,Failed,Code Issue,RStudio Environment Error
+dkrhy,BICB Rasch Models and Plots.R,,,
+dngyk,ESM-RUM_R_code.R,Failed,Container Issue,Missing Package
+dpkyb,create_model_formulas.R,Success,-,-
+dpkyb,data-processing.R,Failed,Code Issue,RStudio Environment Error
+dpkyb,my_ggplot_themes.R,Success,-,-
+dqc3y,REL_corr_obs_descr.R,Failed,Code Issue,Object or File Missing
+dqc3y,analysis_MASTER.R,Failed,Code Issue,Compressed File Not Found
+dqc3y,analysis_fullset.R,Failed,Code Issue,Object or File Missing
+dqc3y,analysis_mmreg.R,Failed,Code Issue,Object or File Missing
+dqc3y,calc_vars.R,Failed,Code Issue,Object or File Missing
+dqc3y,prep_functions.R,Success,-,-
+dqjyh,Script.R,Success,-,-
+dr8gy,RCS_plot_LogisticCox.R,Success,-,-
+dr8gy,utils_surv.R,Success,-,-
+drv3a,illustration.R,Success,-,-
+dzwct,Fisher_Z_3PERIODS_median.R,Failed,Code Issue,Directory Change Failure
+dzwct,Fisher_Z_3PERIODS_std.R,Failed,Code Issue,Directory Change Failure
+ecjy6,CortStressResponse.R,Failed,Container Issue,Missing Package
+eg6w5,experiment1b_analyses.R,Failed,Code Issue,Unexported Object Access Error
+eg6w5,experiment1c_analyses.R,Failed,Code Issue,Unexported Object Access Error
+eg6w5,experiment1d_analyses.R,Failed,Code Issue,Unexported Object Access Error
+egpr5,Analysisscript.R,,,
+eks6u,demo_script_2018_10_02.R,Success,-,-
+emwgp,comparison_smooth.R,,,
+emwgp,ppfs.R,Failed,Code Issue,Directory Already Exists - Avoid Overwriting 
+emwgp,projpred.R,Failed,Code Issue,Missing Function Definition
+ex9fj,RCode_Final_24Feb20.R,Failed,Code Issue,Incompatible Dimensions
+ezdgt,3_Regression analyses.R,Failed,Container Issue,Missing Package
+f3qrh,Kim Skalicky and Jung - R syntax.R,Failed,Code Issue,RStudio Environment Error
+f6qsk,analysis_exp1.R,Failed,Code Issue,Directory Change Failure
+f6qsk,analysis_exp2.R,Failed,Code Issue,Directory Change Failure
+fb5tw,figure_individual_fits.R,Failed,Container Issue,Missing Package
+fb5tw,figure_main.R,Failed,Container Issue,Missing Package
+fb5tw,figure_pp_check.R,Failed,Container Issue,Missing Package
+fb5tw,plotting_style.R,Failed,Container Issue,Missing Package
+fbj3z,R Script for Field & Wilcox (2017).R,,,
+fbshg,ComF_SOM_Rcode.R,Success,-,-
+fbshg,ComF_helpers.R,Success,-,-
+fdp39,analysis.R,,,
+fdp39,functions.r,,,
+fegvr,Analysis.R,Failed,Container Issue,Shared Library Not Found
+fr5ed,01_data_prepare.R,Success,-,-
+fr5ed,02_analysis_single_estimate.R,Failed,Container Issue,Missing Package
+fr5ed,03_posterior_visualization_country_contrast.R,Failed,Container Issue,Missing Package
+fsbzw,functions.R,Success,-,-
+fsbzw,plot.fix.e1.R,Success,-,-
+fvw2k,Murrayetal_SurfaceR_Code.R,Failed,Code Issue,Invalid Function Argument
+fwc2p,Keuken_etal_UHF_MRI_review_analysis_script.r,Failed,Code Issue,Directory Change Failure
+fykpt,03_table_comorbidities_by_study.R,Failed,Code Issue,Missing Function Definition
+g2nkw,YCAS_Scale_development.R,Failed,Code Issue,Invalid NA/NaN Argument
+g8kbu,dataAnalysisRewardAppsExperiment.R,Failed,Container Issue,Missing Package
+g8kbu,dataAnalysisRewardAppsSurvey.R,,,
+gk6jh,summarySE.R,Success,-,-
+greqt,02_analysis.R,Success,-,-
+greqt,04_clusters2_tvals.R,Failed,Code Issue,Object or File Missing
+greqt,06_extrapermut_comaprison_with_random.R,Success,-,-
+greqt,07_correlation_structure.R,Success,-,-
+greqt,functions1.R,Success,-,-
+greqt,functions2.R,Success,-,-
+guqrm,Reproduce_figures_prosocial_ageing.R,Failed,Code Issue,Directory Change Failure
+gwn4y,ESCI_forest_plot.R,,,
+gwn4y,Hospital_Stay_of_Stroke_Patients_forest_plot.R,,,
+gwn4y,Line_plots.R,,,
+gwn4y,Reproducible_Simulations_line_plots.R,,,
+gwn4y,Simulations_line_plots.R,,,
+gy5vm,preprocess_SHCS.R,Failed,Code Issue,Object or File Missing
+gy5vm,risk_factors_monthly.R,Failed,Code Issue,Object or File Missing
+gztxa,Vowel_Harmony_LDT_Exp3.R,Failed,Container Issue,Package Loading Failed
+gztxa,Vowel_Harmony_LDT_Naming.R,Failed,Container Issue,Package Loading Failed
+ha4q8,p_curve_d_distribution_power_app_Lakens.R,,,
+hbju7,study-2_main-analysis-code.R,Failed,Container Issue,Missing Package
+he8mu,Custom_Functions.R,Success,-,-
+he8mu,Study2_Load_Analysis_Post_Review_11-14-16_Final.R,,,
+hfjgw,00-utils.r,Success,-,-
+hfxsb,basic_mods.R,Failed,Container Issue,Missing Package
+hfy4k,prep.analysis.data.R,,,
+hn3bu,AnalysisCode.R,Failed,Code Issue,Directory Change Failure
+hrf5t,Prototype.R,Failed,Code Issue,Syntax Error
+hrf5t,runHierarchicalGCM.R,Failed,Container Issue,Shared Library Not Found
+hrf5t,runPrototype.R,Failed,Container Issue,Shared Library Not Found
+hu2n8,01_get_gads.R,,,
+hu2n8,Simonsohn_twolines_tweaked.R,,,
+hzncs,Witt_SDT_Simulations_OptionalStopping.R,Failed,Container Issue,Missing Package
+hzncs,Witt_SDT_Simulations_SeveralTests.R,Failed,Container Issue,Missing Package
+jh47m,Gatekeeper analysis.r,Failed,Container Issue,File Read Error - Cannot Open Connection
+jhyu9,PrepareData.R,Failed,Container Issue,File Read Error - Cannot Open Connection
+jhyu9,example_Rcode_mlrsa_osf_oneL1pred.R,Failed,Code Issue,No such file or directory
+jpxts,Data_Prep_S1S2.R,,,
+jpxts,Main Tables.R,,,
+jy5wd,Code.R,Failed,Code Issue,Invalid Argument Length
+jyuxk,Analysis_and_source_code_table_3_and_figure_3.R,Failed,Code Issue,Function Call Error - Unused Argument
+k853j,ESS_openess_2018_perCountry.R,Failed,Code Issue,Object or File Missing
+k853j,ESS_openness_2016.R,Failed,Code Issue,Object or File Missing
+k853j,ESS_openness_2016_perCountry.R,Failed,Code Issue,Object or File Missing
+kbjw9,3DFDRPlot.R,Success,-,-
+kdjqz,BF_LissonEtAl2020.R,Failed,Container Issue,File Read Error - Cannot Open Connection
+kdjqz,Lissonetal2021-script.R,Failed,Code Issue,Object or File Missing
+kdjqz,sim_data_LissonEtAl2020.R,Failed,Code Issue,Object or File Missing
+kgtx6,f_readRShare.R,Success,-,-
+kpe75,analysis.R,,,
+kwp6n,Everyday_Trust_Rcode.R,,,
+m6pb2,Data_preparation_Sample_A.R,,,
+m6pb2,Data_preparation_Sample_B.R,,,
+m6pb2,Data_preparation_Sample_C.R,,,
+m6pb2,Data_preparation_Sample_D.r,,,
+m6pb2,Data_preparation_Sample_E.r,,,
+m6pb2,helpers.R,,,
+m72gb,analysis_disclosure.r,,,
+m72gb,analysis_privacysetting.r,,,
+m87vg,Exp1_BehaviouralAnalyses_Code.R,Failed,Container Issue,File Read Error - Cannot Open Connection
+m87vg,Exp2_BehaviouralAnalyses_Code.R,,,
+mbf32,SSSS-Latent Variable Analysis Made Easy (1.0) .R,,,
+mc26t,my_utils.R,Failed,Container Issue,Missing Package
+mcy6r,BeerGogglesorLiquidCouragePPARatingAnalyses.R,Failed,Container Issue,File Read Error - Cannot Open Connection
+meh5w,modelComparison.R,Failed,Container Issue,Shared Library Not Found
+meh5w,multiplicationFactor_ttest.R,Failed,Container Issue,Shared Library Not Found
+mg3ny,1_sim_functions.R,Success,-,-
+mhgcx,Bird AGL - Outputs and plots.R,Failed,Container Issue,Shared Library Not Found
+mhgcx,Figures for paper.R,Failed,Code Issue,Directory Change Failure
+mj5nh,education estimate centrality defaults.R,,,
+mj5nh,education networks at least 6.R,,,
+mj5nh,political knowledge estimate centrality defaults at least 6.R,,,
+mp9td,Stats_Third.R,Success,-,-
+mp9td,TablePrep_Third.R,Failed,Code Issue,Missing Directory or Path
+mp9td,get_first_free_fi.R,Success,-,-
+mp9td,get_gazeshift_latency.R,Success,-,-
+mp9td,get_looks.R,Success,-,-
+mp9td,interface.R,Failed,Code Issue,Missing Function Definition
+mp9td,is_hitname_in_range.R,Success,-,-
+mp9td,preflight.r,Success,-,-
+mvdpe,4. Compare pre-post.R,Failed,Container Issue,Shared Library Not Found
+n3zfp,Aesthetic-Fidelity-Effect-Statistical Analyses.r,Failed,Container Issue,Missing Package
+n5ahf,Table1_analysis.R,Failed,Container Issue,Package Loading Failed
+n5j3w,2021-12-03_AnalysisCode.R,,,
+n7sep,code.R,Failed,Container Issue,Missing Package
+nd9yr,make_fig1_main_text.R,Failed,Code Issue,Directory Change Failure
+nd9yr,ordinal_helper_functions.R,Success,-,-
+nd9yr,ordinal_plot_functions.R,Success,-,-
+ns4h9,RScript_motives.R,Success,-,-
+ntw7d,SRMA2019_analyses.R,Failed,Container Issue,View Function Failed - No GUI
+nxyh3,01a_DataPrep_Study1.R,Failed,Container Issue,File Read Error - Cannot Open Connection
+nxyh3,01b_DataPrep_Study2.R,Failed,Container Issue,File Read Error - Cannot Open Connection
+nxyh3,02b_Descriptives_Study2.R,Failed,Container Issue,No such file or directory
+nxyh3,Data_Prep_S1S2.R,,,
+nxyh3,MainTables.R,,,
+nxyh3,mplus.R,,,
+p2xgq,"Analyses for revision 1, with pilot data and data cleaning.R",Failed,Container Issue,Missing Package
+p46mb,U-Pb Geochronology Scripts.R,,,
+p6msu,create_output_behavioral.R,Failed,Container Issue,File Read Error - Cannot Open Connection
+p7zwr,N400.R,Failed,Container Issue,Missing Package
+p7zwr,P600.R,Failed,Container Issue,Missing Package
+pk9my,PNAS_Social_Mobility_public.R,Failed,Code Issue,Directory Change Failure
+pnug5,2. Ginteger_CrossSex_skewers.R,,,
+pnug5,3. Ginteger_CrossSex_Tables&Figures.R,,,
+przvy,study1-rscript.R,Success,-,-
+ptfye,Analysis.R,Success,-,-
+pvyhe,Figure1.R,Success,-,-
+pvyhe,Prob_between.R,Failed,Container Issue,Missing Package
+pvyhe,exemplar_runs_r_add_xi.R,Success,-,-
+pvyhe,grid_visualize_3by3.R,Failed,Code Issue,Object or File Missing
+pvyhe,visualize_niceplot.R,Success,-,-
+q2zrp,Chi-squaretests.R,,,
+q2zrp,Graphs.R,Failed,Code Issue,Directory Change Failure
+qbgct,code_analyses.R,Failed,Code Issue,Object Not Subsettable
+qhaf8,pupillometry_tutorial_calignano.R,Failed,Code Issue,Directory Change Failure
+qj4xr,02_prevalence-of-scipop.R,Failed,Container Issue,Package Loading Failed
+qj4xr,03_explaining-scipop-attitudes.R,Failed,Code Issue,Missing Function Definition
+qj4xr,06_sensitivity-tests.R,Failed,Code Issue,Object or File Missing
+qj86m,2_data_prep_merge.R,Failed,Code Issue,Object or File Missing
+qj86m,7_manova_fda_breach.R,Failed,Container Issue,Missing Package
+qj86m,8_fda_socaccount.R,Failed,Code Issue,Object or File Missing
+qj86m,9_manova_fda_socaccount.R,Failed,Container Issue,Missing Package
+qjfv4,refugeeservice_varwork2.R,,,
+qk3bf,iip_estimate_bifactor.R,Failed,Container Issue,File Read Error - Cannot Open Connection
+qrv2e,DivNorm_R_EyeTrack.R,Failed,Container Issue,Missing Package
+qrvje,beliefhelp15-220615.R,,,
+qsa5w,SRIS Full Scale IRT Models and Plots.R,,,
+qwr69,nGFS.R,Success,-,-
+qxf5t,TSST_Meta.R,Failed,Code Issue,Directory Change Failure
+qxwsz,anxiety_abstraction_s2.R,Failed,Container Issue,Missing Package
+qy5sd,PairsBindingRSS_MPT.R,Failed,Code Issue,RStudio Environment Error
+qy5sd,PairsBindingRSS_Stats.R,Failed,Code Issue,RStudio Environment Error
+qy5sd,plotPostKO.R,Success,-,-
+qynhu,combinealldata.R,,,
+qynhu,subject19.R,Failed,Container Issue,File Read Error - Cannot Open Connection
+qynhu,subject21.R,Failed,Container Issue,File Read Error - Cannot Open Connection
+r24vb,clustering_syn_types.R,Failed,Container Issue,Shared Library Not Found
+r4wg2,elsa_analyses.R,Failed,Container Issue,Missing Package
+r4wg2,stadyl_analyses.R,Failed,Container Issue,Missing Package
+rbxzs,Script_R.R,Success,-,-
+rf6zu,scrape_web_pages.R,Failed,Code Issue,Missing Function Definition
+rh2sw,bayes.ema.tutorial.analysis.R,Failed,Container Issue,Missing Package
+rmcuy,Fig. 4 - Simulation_model_outline_AT_LM.r,Failed,Code Issue,Missing Function Definition
+rmcuy,Model_analysis.R,Failed,Code Issue,Compressed File Not Found
+rs6un,Code_Simulation_Part_III_MVAR_RE.R,Failed,Code Issue,Missing Function Definition
+rs6un,Data.Cluster.VAR.Fixed.R,Success,-,-
+rs6un,Data.Cluster.VAR.R,Success,-,-
+rs6un,Data.PC.VAR.Fixed.R,Success,-,-
+rs6un,Data.VAR.Fixed.R,Success,-,-
+rs6un,MSE.VAR.Sys.R,Success,-,-
+rs6un,Psi.PS.AR.Matrix.R,Success,-,-
+rtmyx,05_PerceptionAnalysis_AllClassSolutions_V230401.R,Failed,Container Issue,Shared Library Not Found
+s6zeg,Criticism-Attachment-RCode_v2.R,Failed,Code Issue,Directory Change Failure
+s82bw,01_TreeBUGS_with_csv_files.R,,,
+s82bw,04_simulation_continuous_predictor.R,,,
+sb3kw,Meta_Analysis.R,Failed,Code Issue,Directory Change Failure
+sb3kw,Study2A_analyses.R,Failed,Code Issue,Directory Change Failure
+sb3kw,Study2B_analyses.R,Failed,Code Issue,Directory Change Failure
+sb3kw,Study3B_analyses.R,Failed,Code Issue,Directory Change Failure
+scn62,three countries plot.R,Success,-,-
+skp56,CSEP_DataScienceExPhys_Akerman2021.R,,,
+skp56,CSEP_DataScienceExPhys_DataGen_Akerman.R,Failed,Code Issue,Directory Change Failure
+sqfnt,Goal 1 Analysis.R,Failed,Container Issue,Missing Package
+sqfnt,Goal 3 Analysis.R,Failed,Code Issue,Missing Function Definition
+srbcf,R_KM Curve Code.R,,,
+sw7rq,Functions.R,Failed,Container Issue,Missing Package
+sx6yf,2021-6-7_No_Man_Is_An_Island_analyses.R,Failed,Container Issue,Missing Package
+t2jka,batchUploadImages.R,Failed,Code Issue,Directory Change Failure
+t2jka,multipleChoiceSame.R,Success,-,-
+t7a28,collect_results.R,Failed,Code Issue,Object or File Missing
+t93pf,Simulation-Random-Significance.r,Success,-,-
+tajd9,Flip_MainDataAnalyses.R,Success,-,-
+tajd9,Flux_MainDataAnalyses.R,Failed,Code Issue,Matrix Dimnames Mismatch
+tbczv,01-readData.r,Failed,Code Issue,Directory Change Failure
+tbczv,01-readData.r,Success,-,-
+tbczv,02-exclCriteria.r,Failed,Code Issue,Compressed File Not Found
+tbczv,TRDM-functions.r,Success,-,-
+tbczv,exp1aDead-MNL-SAT-A.r,Failed,Code Issue,Compressed File Not Found
+tbczv,exp1bDead-MNL-SAT-A.r,Failed,Code Issue,Compressed File Not Found
+tbczv,pmwgDIC.r,Success,-,-
+tfbps,R_Script_Idiographic_network_analyses.R,Failed,Container Issue,Missing Package
+tg3fq,syntax_SDMWS&SBPS.R,Failed,Code Issue,Directory Change Failure
+tgf3q,SI_4_Statistical_analyses.R,Failed,Container Issue,File Read Error - Cannot Open Connection
+tnbev,lewis-acid-base-researchers.R,Failed,Code Issue,Directory Change Failure
+tw8dq,SVOSM_analyses_final.R,Failed,Code Issue,Directory Change Failure
+u3wby,twitter_analyze.R,,,
+u9hkj,expertsurvey_CDRCCS.R,Failed,Container Issue,Missing Package
+uckzx,P1_motif-by-motif_newbins.R,Failed,Code Issue,Invalid Multibyte String (Encoding Issue)
+uckzx,P2_analysis_newbins.R,Failed,Code Issue,Invalid Multibyte String (Encoding Issue)
+uckzx,P2_analysis_oldbins.R,Failed,Code Issue,Invalid Multibyte String (Encoding Issue)
+uckzx,P3_analysis.R,Failed,Code Issue,Invalid Multibyte String (Encoding Issue)
+uf63k,MsReviewsAnalysisScript.R,Success,-,-
+uhma8,8RememberingAdvocacy_Spanish.R,,,
+uhma8,AnalysisPost-PAP.R,,,
+uhma8,MMCPSRAnalysis.R,,,
+uhma8,MMCPSRAuthorAnalysis.R,,,
+uhma8,apsa_race_ethnicity.R,Failed,Code Issue,Directory Change Failure
+uhma8,mmcpsr_author_data.R,Failed,Container Issue,Missing Package
+ujpyn,[2]R-AnswerstoRound3Reviews-Powertoacceptflatwhentrueeffectiszeroacross24studies.R,,,
+ujpyn,pcurve_app4.052.r,Success,-,-
+unxj2,functions_1.R,Success,-,-
+unxj2,functions_2.R,Success,-,-
+uq3cv,4_Compute_beta_diversity_metrics.R,Failed,Code Issue,Missing Argument in setwd() Function
+uq3cv,5_NMDS_comparing_dawn_and_morning_assemblage_compositions.R,Failed,Code Issue,Missing Argument in setwd() Function
+uxdwh,code.R,,,
+uygpq,Cross-paradigm.R,Failed,Code Issue,Object or File Missing
+uygpq,Model figures.R,Failed,Code Issue,Object or File Missing
+uygpq,Within-paradigm.R,Failed,Code Issue,Object or File Missing
+vguey,Sim.Data.IL.R,Success,-,-
+vguey,lag.Y.R,Success,-,-
+vjeb3,boot_glmm.r,Success,-,-
+vjeb3,diagnostic_fcns.r,Success,-,-
+vjeb3,draw.2.w.int.bw.1.cov.and.1.fac.r,Success,-,-
+vjeb3,helpers.r,Success,-,-
+vnbxk,GamingStudy_PreProcessing.R,Failed,Code Issue,RStudio Environment Error
+vphyt,Pandemic_Cohorts_vs_Pre_Pandemic_Cohorts.R,Failed,Code Issue,Object or File Missing
+vphyt,Prepare_wst_data_OSF.R,Failed,Code Issue,Invalid Multibyte Character in Parser
+vphyt,Sentence_Level.R,Failed,Code Issue,Undefined Column Selection
+vphyt,Text_Level.R,Failed,Code Issue,Undefined Column Selection
+vprwb,MLM--lmerTest--JPNpsyUpdated.R,Failed,Code Issue,Directory Change Failure
+vtb9e,Sim.Dyad.Model.16.R,Success,-,-
+vtb9e,Sim.Dyad.Model.3.R,Success,-,-
+vwq9p,analysis.R,,,
+vy763,A closer look at fixed-effects regression in sem_supplementary materials.R,,,
+w4gey,01_setup.R,Failed,Code Issue,Directory Change Failure
+w4gey,02_measures.R,Failed,Container Issue,Missing Package
+w4gey,03_descriptive-analysis.R,Failed,Code Issue,Missing Function Definition
+w7afh,CFA script.R,Failed,Code Issue,Object or File Missing
+w7afh,EFA script.R,Failed,Code Issue,Object or File Missing
+w7pjy,PWLcapturedByModel.R,Success,-,-
+w7pjy,analyze_agreementIndicators.R,Failed,Container Issue,Missing Package
+w7pjy,assessQualityOfcaptWKL.R,Success,-,-
+w7pjy,bootstrapConfusionMatrix.R,Success,-,-
+w7pjy,figures_paper.R,Failed,Container Issue,Missing Package
+w7pjy,format_captWKLquality.R,Success,-,-
+w7pjy,format_confusionMatrix.R,Success,-,-
+w7pjy,node_violinplot.R,Success,-,-
+w97h4,Paper_functions.R,Success,-,-
+wbyj7,Exp1-LBA-null.r,Failed,Container Issue,Shared Library Not Found
+wbyj7,pmwg-DIC.r,Success,-,-
+wbyj7,read-data-Exp1.r,Success,-,-
+wc3nq,2) soc_measures_code.R,Failed,Code Issue,Directory Change Failure
+wc3nq,6) agr_summer_model.R,Failed,Code Issue,Directory Change Failure
+wc3nq,7) agr_yearly_model.R,Failed,Code Issue,Directory Change Failure
+wcfj3,1_dataPrep.R,Failed,Code Issue,Object or File Missing
+wcfj3,2_idDiffs.R,Failed,Code Issue,Object or File Missing
+wcfj3,funs.R,Success,-,-
+wcqpa,Rcode.R,Failed,Container Issue,File Read Error - Cannot Open Connection
+wgneh,3 Prepare Data.R,Failed,Code Issue,Directory Change Failure
+wxgm5,Exp1_complete.R,Failed,Container Issue,Missing Package
+wxgm5,Exp2_judgment.R,Failed,Container Issue,Missing Package
+wxgm5,Exp2_tapping.R,Failed,Container Issue,Missing Package
+wxgzu,outcome_evaluation_code_v5.R,Failed,Code Issue,Directory Change Failure
+wyrav,Analysis Script - Research Question 1.R,,,
+wyrav,Data prep - Participant Responses.R,,,
+wyrav,Thesis ML ROC Code.R,,,
+x72cy,AnalyzeDummyData.R,Failed,Container Issue,File Read Error - Cannot Open Connection
+x72cy,ConfirmatoryAnalyses.R,Failed,Container Issue,Shared Library Not Found
+x72cy,ExploratoryAnalyses.R,Failed,Container Issue,Shared Library Not Found
+x72cy,PreprocessingQualtricsData.R,Failed,Container Issue,File Read Error - Cannot Open Connection
+x8vyw,02_random_forest_analysis.R,Failed,Code Issue,No such file or directory
+x8vyw,03_glmm_analysis.R,Failed,Code Issue,No such file or directory
+xcthg,0-Script.R,Failed,Container Issue,Package Loading Failed
+xcthg,0-Script.R,Failed,Container Issue,Missing Package
+xgwzf,exp3_analysis.R,Failed,Code Issue,Directory Change Failure
+xgwzf,utils.R,Success,-,-
+xh36s,behavior_analyses.R,Failed,Container Issue,Package Loading Failed
+xh36s,preprocessing.R,Success,-,-
+xh36s,quest_analyses.R,Failed,Container Issue,Package Loading Failed
+xh36s,questionnaires_analyses.R,Failed,Container Issue,Package Loading Failed
+xhrw6,1_create_composite_measures.R,Failed,Code Issue,Missing Function Definition
+xhrw6,4_sem_models.R,Failed,Code Issue,Object or File Missing
+xhrw6,corstars.R,Success,-,-
+xjm6z,AuxiliaryFunctions.R,Success,-,-
+xuz8d,Thesis ML R Code.R,,,
+xwp2d,generic.r,Failed,Container Issue,Package Loading Failed
+y5gr9,Skip_Backwards.R,,,
+yc8b5,get_tweets.R,Success,-,-
+yfegm,PREPROC_script_Experiment1.r,Failed,Code Issue,No such file or directory
+yfegm,allocateTrials.r,Success,-,-
+yfegm,getLooks.r,Success,-,-
+yfegm,getObjects.r,Success,-,-
+yhmbd,02_main-analysis.R,,,
+ynx3m,WoCP_publication_script.R,Failed,Container Issue,Missing Package
+yvw93,R_code_test_congruence_effects.R,Failed,Container Issue,Missing Package
+ywm3r,Analyses.R,,,
+ywm3r,predictability.R,Success,-,-
+z39us,Bayesian_analyses_H1d.R,Failed,Container Issue,File Read Error - Cannot Open Connection
+z39us,Posthoc_H3b.R,Success,-,-
+z6nm8,Stats_figures_ECT.R,Failed,Container Issue,Package Loading Failed
+z6nm8,Stats_figures_JBT.R,Failed,Container Issue,Package Loading Failed
+z6nm8,Stats_figures_JBTxECT.R,Failed,Container Issue,Package Loading Failed
+zcv4m,winke_stevens_2017_rcode.R,Failed,Container Issue,Missing Package
+zfqax,Study1_manipulationeffectiveness.R,Failed,Container Issue,Shared Library Not Found
+zh3f4,CI.helpers.R,,,
+zh3f4,exp1 simulated analysis.R,,,
+zh3f4,misc.helpers.R,,,
+zh3f4,regression analysis.R,,,
+zhf98,abstract ratings analysis.r,Failed,Container Issue,File Read Error - Cannot Open Connection
+ztycp,Schizotypal Ambivalence.R,Failed,Container Issue,Missing Package
+zv3uc,analysis.R,Failed,Container Issue,View Function Failed - No GUI

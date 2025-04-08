@@ -1,0 +1,487 @@
+Project ID,R/Rmd Script,Execution Status
+qhaf8,pupillometry_tutorial_calignano.R,Failed
+8edp7,Social Factors COVID-19_Konrad.R,Failed
+uhma8,mmcpsr_author_data.R,Failed
+uhma8,apsa_race_ethnicity.R,Failed
+6ukwg,utility_functions.R,Successful
+6ukwg,codes_reanalysis.R,Failed
+6ukwg,stuart.R,Failed
+3kem6,Rcode_Figure2.R,Failed
+r4wg2,elsa_analyses.R,Failed
+r4wg2,stadyl_analyses.R,Failed
+vwq9p,analysis.R,Failed
+7h94n,Malawi_ordination.R,Failed
+7h94n,Malawi_interpolation.R,Failed
+dzwct,Fisher_Z_3PERIODS_std.R,Failed
+dzwct,Fisher_Z_3PERIODS_median.R,Failed
+k853j,ESS_openness_2016_perCountry.R,Failed
+k853j,ESS_openess_2018_perCountry.R,Failed
+k853j,ESS_openness_2016.R,Failed
+938ye,Descriptive_statistics.R,Failed
+938ye,Apriori_group_differences.R,Failed
+938ye,Statistical_models_no_T3_criticals.R,Failed
+wxgzu,outcome_evaluation_code_v5.R,Failed
+ns4h9,RScript_motives.R,Successful
+jhyu9,PrepareData.R,Failed
+jhyu9,example_Rcode_mlrsa_osf_oneL1pred.R,Failed
+gy5vm,preprocess_SHCS.R,Failed
+gy5vm,risk_factors_monthly.R,Failed
+uckzx,P1_motif-by-motif_newbins.R,Failed
+uckzx,P3_analysis.R,Failed
+uckzx,P2_analysis_oldbins.R,Failed
+uckzx,P2_analysis_newbins.R,Failed
+pk9my,PNAS_Social_Mobility_public.R,Failed
+sb3kw,Study3B_analyses.R,Failed
+sb3kw,Meta_Analysis.R,Failed
+sb3kw,Study2B_analyses.R,Failed
+sb3kw,Study2A_analyses.R,Failed
+tg3fq,syntax_SDMWS&SBPS.R,Failed
+w7pjy,figures_paper.R,Failed
+w7pjy,analyze_agreementIndicators.R,Failed
+w7pjy,bootstrapConfusionMatrix.R,Successful
+w7pjy,assessQualityOfcaptWKL.R,Successful
+w7pjy,node_violinplot.R,Successful
+w7pjy,format_confusionMatrix.R,Successful
+w7pjy,format_captWKLquality.R,Successful
+w7pjy,PWLcapturedByModel.R,Successful
+s82bw,01_TreeBUGS_with_csv_files.R,Failed
+s82bw,04_simulation_continuous_predictor.R,Failed
+q2zrp,Graphs.R,Failed
+emwgp,projpred.R,Failed
+emwgp,comparison_smooth.R,Failed
+emwgp,ppfs.R,Failed
+tajd9,Flip_MainDataAnalyses.R,Successful
+tajd9,Flux_MainDataAnalyses.R,Failed
+5y27d,load_all_tables.R,Failed
+5y27d,tabulate_cases.R,Failed
+fegvr,Analysis.R,Failed
+7vbj9,Analyses_Confirmatory.R,Failed
+7vbj9,Analyses_Exploratory.R,Failed
+8fzns,1_Get_Item-Params_TR.R,Failed
+8fzns,0_Data-Prep.R,Failed
+8fzns,4H_PV_helper.R,Successful
+8fzns,2_Conditioning_Recode.R,Failed
+8fzns,3H_IRT_helper.R,Successful
+8fzns,3_IRT.R,Failed
+8fzns,2H_Recode_helper.R,Successful
+nxyh3,01b_DataPrep_Study2.R,Failed
+nxyh3,02b_Descriptives_Study2.R,Failed
+nxyh3,01a_DataPrep_Study1.R,Failed
+37rfb,prediction_plots.R,Failed
+37rfb,prediction_analyses.R,Failed
+9e3cu,BCA_activity_answers.R,Failed
+9e3cu,titration_answers.R,Failed
+9e3cu,sat_curve.R,Successful
+9e3cu,BCA_dilution_answers.R,Failed
+9e3cu,visualization_code.R,Successful
+bkuwa,main_analysis_code.R,Failed
+nd9yr,make_fig1_main_text.R,Failed
+nd9yr,ordinal_plot_functions.R,Successful
+nd9yr,ordinal_helper_functions.R,Successful
+wc3nq,6) agr_summer_model.R,Failed
+wc3nq,2) soc_measures_code.R,Failed
+wc3nq,7) agr_yearly_model.R,Failed
+cd5r8,R_Code_Buffinton_MorganShort.R,Failed
+cd5r8,R_Code_Hui_et_al.R,Failed
+cd5r8,Sim_Function.R,Successful
+cd5r8,R_Code_Fang_Wu.R,Failed
+sqfnt,Goal 3 Analysis.R,Failed
+sqfnt,Goal 1 Analysis.R,Failed
+53w96,INLA_GHG_GMD.R,Failed
+hrf5t,runHierarchicalGCM.R,Failed
+hrf5t,runPrototype.R,Failed
+hrf5t,Prototype.R,Failed
+5ezfk,SWATCUPfunctions.R,Successful
+5ezfk,SantaLuciaStationsToPCPFile.R,Failed
+5ezfk,ETfun.R,Successful
+qj86m,2_data_prep_merge.R,Failed
+qj86m,9_manova_fda_socaccount.R,Failed
+qj86m,8_fda_socaccount.R,Failed
+qj86m,7_manova_fda_breach.R,Failed
+xcthg,0-Script.R,Failed
+5s34w,simpd_helper.R,Successful
+g8kbu,dataAnalysisRewardAppsSurvey.R,Failed
+g8kbu,dataAnalysisRewardAppsExperiment.R,Failed
+u9hkj,expertsurvey_CDRCCS.R,Failed
+g2nkw,YCAS_Scale_development.R,Failed
+wcfj3,2_idDiffs.R,Failed
+wcfj3,funs.R,Successful
+wcfj3,1_dataPrep.R,Failed
+6hx2n,DM_a_k.R,Failed
+ztycp,Schizotypal Ambivalence.R,Failed
+fb5tw,figure_pp_check.R,Failed
+fb5tw,figure_main.R,Failed
+fb5tw,figure_individual_fits.R,Failed
+fb5tw,plotting_style.R,Failed
+2j47e,Factor analysis.R,Failed
+2j47e,Demographics.R,Failed
+2j47e,Reliability.R,Failed
+2j47e,Cluster analysis non-refined factor scores.R,Failed
+2j47e,Cluster analysis refined factor scores.R,Failed
+2j47e,Figures.R,Failed
+fykpt,03_table_comorbidities_by_study.R,Failed
+bfq39,Code_LMMs_BestPractice_Example_withOutput.R,Failed
+bfq39,Code_LMMs_Code_BestPractice_Example.R,Failed
+x72cy,ConfirmatoryAnalyses.R,Failed
+x72cy,ExploratoryAnalyses.R,Failed
+x72cy,PreprocessingQualtricsData.R,Failed
+x72cy,AnalyzeDummyData.R,Failed
+uxdwh,code.R,Failed
+6qej7,ECoach Functions.R,Successful
+8abj4,Exp1.R,Failed
+8abj4,Exp2.R,Failed
+qy5sd,PairsBindingRSS_Stats.R,Failed
+qy5sd,PairsBindingRSS_MPT.R,Failed
+qy5sd,plotPostKO.R,Successful
+9tnmv,Exp1a_Election_post.R,Failed
+9tnmv,Exp4_buddhist_post.R,Successful
+9tnmv,Exp2_OnlineExp_POST.R,Successful
+xh36s,questionnaires_analyses.R,Failed
+xh36s,quest_analyses.R,Failed
+xh36s,preprocessing.R,Successful
+xh36s,behavior_analyses.R,Failed
+4a9b6,EXPLORATORY_Gaze Following_ANALYSES.R,Failed
+vphyt,Prepare_wst_data_OSF.R,Failed
+vphyt,Text_Level.R,Failed
+vphyt,Sentence_Level.R,Failed
+vphyt,Pandemic_Cohorts_vs_Pre_Pandemic_Cohorts.R,Failed
+uq3cv,5_NMDS_comparing_dawn_and_morning_assemblage_compositions.R,Failed
+uq3cv,4_Compute_beta_diversity_metrics.R,Failed
+xhrw6,corstars.R,Successful
+xhrw6,4_sem_models.R,Failed
+xhrw6,1_create_composite_measures.R,Failed
+qj4xr,06_sensitivity-tests.R,Failed
+qj4xr,03_explaining-scipop-attitudes.R,Failed
+qj4xr,02_prevalence-of-scipop.R,Failed
+7xsfj,Fig05To08.R,Failed
+c93vs,exp02_prep.R,Failed
+c93vs,exp01_prep.R,Failed
+rmcuy,Model_analysis.R,Failed
+dgt8x,04-revisions.R,Failed
+eg6w5,experiment1c_analyses.R,Failed
+eg6w5,experiment1d_analyses.R,Failed
+eg6w5,experiment1b_analyses.R,Failed
+9gjyc,BRMS + Figure4.R,Successful
+9gjyc,Simulations Evidence level.R,Failed
+uygpq,Cross-paradigm.R,Failed
+uygpq,Model figures.R,Failed
+uygpq,Within-paradigm.R,Failed
+hn3bu,AnalysisCode.R,Failed
+2phst,mse_values_for_density_smoother.R,Failed
+2phst,mse_values_latent_space_diffusion_slurm.R,Failed
+4g2tu,custom_functions.R,Successful
+3wy58,bivariate_model_summer_revision.R,Failed
+3wy58,bivariate_model_winter_revision.R,Failed
+z39us,Bayesian_analyses_H1d.R,Failed
+z39us,Posthoc_H3b.R,Successful
+wxgm5,Exp1_complete.R,Failed
+wxgm5,Exp2_tapping.R,Failed
+wxgm5,Exp2_judgment.R,Failed
+przvy,study1-rscript.R,Successful
+m6pb2,helpers.R,Successful
+m6pb2,Data_preparation_Sample_C.R,Failed
+m6pb2,Data_preparation_Sample_A.R,Failed
+m6pb2,Data_preparation_Sample_B.R,Failed
+dqc3y,analysis_mmreg.R,Failed
+dqc3y,REL_corr_obs_descr.R,Failed
+dqc3y,analysis_fullset.R,Failed
+dqc3y,analysis_MASTER.R,Failed
+dqc3y,calc_vars.R,Failed
+dqc3y,prep_functions.R,Successful
+xgwzf,utils.R,Successful
+xgwzf,exp3_analysis.R,Failed
+w7afh,CFA script.R,Failed
+w7afh,EFA script.R,Failed
+8akru,workshop_example.R,Failed
+fbshg,ComF_helpers.R,Successful
+fbshg,ComF_SOM_Rcode.R,Successful
+7wd8e,06 - Trends.R,Failed
+x8vyw,02_random_forest_analysis.R,Failed
+x8vyw,03_glmm_analysis.R,Failed
+pvyhe,grid_visualize_3by3.R,Failed
+pvyhe,Figure1.R,Successful
+pvyhe,visualize_niceplot.R,Successful
+pvyhe,exemplar_runs_r_add_xi.R,Successful
+pvyhe,Prob_between.R,Failed
+abts4,DECEPTION-ProbitSDT-v1.R,Failed
+ywm3r,predictability.R,Successful
+ywm3r,Analyses.R,Failed
+sx6yf,2021-6-7_No_Man_Is_An_Island_analyses.R,Failed
+cqsr8,plots.R,Failed
+cqsr8,boosting_xgbDART.R,Failed
+rbxzs,Script_R.R,Successful
+yvw93,R_code_test_congruence_effects.R,Failed
+hbju7,study-2_main-analysis-code.R,Failed
+jyuxk,Analysis_and_source_code_table_3_and_figure_3.R,Failed
+d3tg5,Manuscript_main analyses.R,Failed
+6g4js,Graphics_Section_5.R,Failed
+6g4js,Analyses_Section_4.R,Successful
+67ncp,duque_etal_2020_rcode.R,Failed
+67ncp,duque_etal_2019_rcode.R,Failed
+t2jka,multipleChoiceSame.R,Successful
+t2jka,batchUploadImages.R,Failed
+kdjqz,sim_data_LissonEtAl2020.R,Failed
+kdjqz,Lissonetal2021-script.R,Failed
+kdjqz,BF_LissonEtAl2020.R,Failed
+mbf32,SSSS-Latent Variable Analysis Made Easy (1.0) .R,Failed
+5qx7e,Descriptives_Tables_1_2_S1_S2.R,Failed
+73y8p,RAQ-R_reliability after exclusion.R,Failed
+73y8p,RAQ-R_Analyses.R,Failed
+ynx3m,WoCP_publication_script.R,Failed
+3bn9u,4_4_identification.R,Failed
+3bn9u,4_1_deidentification.R,Failed
+qxf5t,TSST_Meta.R,Failed
+dpkyb,create_model_formulas.R,Successful
+dpkyb,my_ggplot_themes.R,Successful
+dpkyb,data-processing.R,Failed
+a9bv6,sanet_2.R,Successful
+m87vg,Exp1_BehaviouralAnalyses_Code.R,Failed
+m87vg,Exp2_BehaviouralAnalyses_Code.R,Failed
+rf6zu,scrape_web_pages.R,Failed
+4fvwe,load_my_functions.R,Failed
+4fvwe,print_result.R,Successful
+4fvwe,return_BF_ttests.R,Successful
+he8mu,Study2_Load_Analysis_Post_Review_11-14-16_Final.R,Failed
+he8mu,Custom_Functions.R,Successful
+f3qrh,Kim Skalicky and Jung - R syntax.R,Failed
+cxv5k,data_preparation.R,Successful
+cxv5k,R_functions_Kimmoun_et_al_final.R,Successful
+vprwb,MLM--lmerTest--JPNpsyUpdated.R,Failed
+gztxa,Vowel_Harmony_LDT_Exp3.R,Failed
+gztxa,Vowel_Harmony_LDT_Naming.R,Failed
+t7a28,collect_results.R,Failed
+5te7n,return_effect_sizes.R,Successful
+5te7n,save_get_pp_check.R,Successful
+p7zwr,N400.R,Failed
+p7zwr,P600.R,Failed
+sw7rq,Functions.R,Failed
+ecjy6,CortStressResponse.R,Failed
+qk3bf,iip_estimate_bifactor.R,Failed
+zv3uc,analysis.R,Failed
+9jxzs,07_analysis_rheology.R,Failed
+9jxzs,03_analysis_color.R,Failed
+w4gey,01_setup.R,Failed
+w4gey,02_measures.R,Failed
+w4gey,03_descriptive-analysis.R,Failed
+kwp6n,Everyday_Trust_Rcode.R,Failed
+fbj3z,R Script for Field & Wilcox (2017).R,Failed
+94jyp,Ex1_ Data Wrangling_answers.R,Failed
+fvw2k,Murrayetal_SurfaceR_Code.R,Failed
+unxj2,functions_1.R,Successful
+unxj2,functions_2.R,Successful
+n5j3w,2021-12-03_AnalysisCode.R,Failed
+d4hjq,02_parameter_estimation.R,Successful
+aczx5,220423_Fig04_Use_JargExpl.R,Successful
+aczx5,220423_FinalModelEstimation.R,Failed
+aczx5,220423_Fig06_Under_JargExpl.R,Successful
+kbjw9,3DFDRPlot.R,Successful
+a3yd4,Functions_IRT.R,Successful
+62je8,DMS-NRSA-CA-QC-Figures.R,Failed
+92e6c,hadza_combine_data.R,Failed
+92e6c,analyze_scan_model_hadza.R,Failed
+92e6c,fill_summary_table.R,Failed
+92e6c,hadza_returns_model.R,Failed
+3gfqn,VADIS_genitives_outer_circle.R,Failed
+3gfqn,VADIS_particles_InnerC-only.R,Failed
+ntw7d,SRMA2019_analyses.R,Failed
+3bpn6,os_testosterone_analysis.R,Failed
+3bpn6,af_testosterone_analysis.R,Failed
+3bpn6,osylv_sitecomparison.R,Failed
+3bpn6,all_spaceuse_dataproc.R,Failed
+3bpn6,all_navigation_models.R,Failed
+3bpn6,dt_homing_dataproc.R,Failed
+3bpn6,os_homing_dataproc.R,Failed
+3bpn6,af_homing_dataproc.R,Failed
+hzncs,Witt_SDT_Simulations_SeveralTests.R,Failed
+hzncs,Witt_SDT_Simulations_OptionalStopping.R,Failed
+5yvnb,analyse_final_Exp5_OSF.R,Failed
+5yvnb,analyse_final_Exp6_OSF.R,Failed
+rs6un,Data.PC.VAR.Fixed.R,Successful
+rs6un,Psi.PS.AR.Matrix.R,Successful
+rs6un,MSE.VAR.Sys.R,Successful
+rs6un,Data.VAR.Fixed.R,Successful
+rs6un,Data.Cluster.VAR.R,Successful
+rs6un,Data.Cluster.VAR.Fixed.R,Successful
+rs6un,Code_Simulation_Part_III_MVAR_RE.R,Failed
+2sz48,Model_Preference.R,Failed
+2sz48,Model_Correctness.R,Failed
+2uf8j,Negativity R.R,Failed
+tgf3q,SI_4_Statistical_analyses.R,Failed
+qxwsz,anxiety_abstraction_s2.R,Failed
+meh5w,modelComparison.R,Failed
+meh5w,multiplicationFactor_ttest.R,Failed
+dqjyh,Script.R,Successful
+7mey8,stan_CON_adriana_pools5i.r,Failed
+7mey8,stan_AWB_adriana_pools5i_vary_mic.r,Failed
+4a9b6,PrefLook_functions.r,Successful
+qynhu,subject19.R,Failed
+qynhu,subject21.R,Failed
+qrvje,beliefhelp15-220615.R,Failed
+2qjn5,redraw_figures.R,Failed
+2qjn5,dump_csv.R,Failed
+jh47m,Gatekeeper analysis.r,Failed
+bhrwx,evaluation_data_analysis.R,Failed
+bhrwx,script_for_the_analysis_of_game_data.R,Failed
+yfegm,getObjects.r,Successful
+yfegm,PREPROC_script_Experiment1.r,Failed
+yfegm,allocateTrials.r,Successful
+yfegm,getLooks.r,Successful
+zcv4m,winke_stevens_2017_rcode.R,Failed
+greqt,02_analysis.R,Successful
+greqt,functions2.R,Successful
+greqt,06_extrapermut_comaprison_with_random.R,Successful
+greqt,07_correlation_structure.R,Successful
+greqt,04_clusters2_tvals.R,Failed
+greqt,functions1.R,Successful
+tfbps,R_Script_Idiographic_network_analyses.R,Failed
+ujpyn,pcurve_app4.052.r,Successful
+7v4ep,Collaboration boosts career progression_part 1.R,Failed
+7v4ep,Collaboration boosts career progression_part 2.R,Failed
+t93pf,Simulation-Random-Significance.r,Successful
+fr5ed,01_data_prepare.R,Successful
+fr5ed,03_posterior_visualization_country_contrast.R,Failed
+fr5ed,02_analysis_single_estimate.R,Failed
+3fnjq,facebook_users.R,Failed
+3fnjq,campaign_messages.R,Failed
+3fnjq,facebook_pages.R,Failed
+dcw4x,04_figures_estimates_marginal_means.R,Failed
+hfjgw,00-utils.r,Successful
+gk6jh,summarySE.R,Successful
+mg3ny,1_sim_functions.R,Successful
+4anzm,norms_code.R,Failed
+6579b,03_Supplement.R,Failed
+6579b,02_Main_Analyses.R,Failed
+mvdpe,4. Compare pre-post.R,Failed
+9qbwv,helper.R,Successful
+6jmke,custom_functions.R,Successful
+ex9fj,RCode_Final_24Feb20.R,Failed
+qbgct,code_analyses.R,Failed
+xjm6z,AuxiliaryFunctions.R,Successful
+yc8b5,get_tweets.R,Successful
+2yq8a,figure2.R,Failed
+dr8gy,utils_surv.R,Successful
+dr8gy,RCS_plot_LogisticCox.R,Successful
+z6nm8,Stats_figures_JBT.R,Failed
+z6nm8,Stats_figures_JBTxECT.R,Failed
+z6nm8,Stats_figures_ECT.R,Failed
+6q73b,SubgroupStatsSimulationV5.R,Successful
+d9jny,Ter Schure (2021) R code ALL-IN meta-analysis paper.R,Failed
+8fw3b,QPsyAnalyse.R,Failed
+dngyk,ESM-RUM_R_code.R,Failed
+qwr69,nGFS.R,Successful
+c8vfj,Analysis_Imitation_and_Token.R,Failed
+2sguf,US attitude code.R,Failed
+42nyv,Eye tracking_pre-processing_R1.R,Failed
+guqrm,Reproduce_figures_prosocial_ageing.R,Failed
+n5ahf,Table1_analysis.R,Failed
+xwp2d,generic.r,Failed
+3w8eg,All_Figures.R,Failed
+vnbxk,GamingStudy_PreProcessing.R,Failed
+49sq5,example_analysis.R,Failed
+s6zeg,Criticism-Attachment-RCode_v2.R,Failed
+qrv2e,DivNorm_R_EyeTrack.R,Failed
+uf63k,MsReviewsAnalysisScript.R,Successful
+tnbev,lewis-acid-base-researchers.R,Failed
+3hgpe,02_analysis.R,Failed
+3hgpe,01_data-preparation-variable-setup.R,Successful
+mcy6r,BeerGogglesorLiquidCouragePPARatingAnalyses.R,Failed
+dez9b,BaIn_ANOVAinR.R,Failed
+4sjxz,ScenePrimingCFS_Analysis.R,Failed
+ezdgt,3_Regression analyses.R,Failed
+rh2sw,bayes.ema.tutorial.analysis.R,Failed
+zfqax,Study1_manipulationeffectiveness.R,Failed
+wcqpa,Rcode.R,Failed
+vtb9e,Sim.Dyad.Model.16.R,Successful
+vtb9e,Sim.Dyad.Model.3.R,Successful
+vguey,Sim.Data.IL.R,Successful
+vguey,lag.Y.R,Successful
+5nh94,01b_fit_single_ergm.R,Failed
+5nh94,F8_plot_efficiency_goodness_of_fit.R,Failed
+6z79s,bi.conv.networks.R,Failed
+wgneh,3 Prepare Data.R,Failed
+25a6x,BeliefsScale_IRT_Rscript.R,Failed
+3b59h,Analysis.R,Failed
+5hpjn,NetworkToolbox.R,Failed
+hfxsb,basic_mods.R,Failed
+eks6u,demo_script_2018_10_02.R,Successful
+ptfye,Analysis.R,Successful
+6ya5d,Power_Analysis_OSF_22.R,Failed
+mhgcx,Figures for paper.R,Failed
+mhgcx,Bird AGL - Outputs and plots.R,Failed
+tw8dq,SVOSM_analyses_final.R,Failed
+p6msu,create_output_behavioral.R,Failed
+scn62,three countries plot.R,Successful
+csy8q,process_pdf.R,Failed
+jy5wd,Code.R,Failed
+rtmyx,05_PerceptionAnalysis_AllClassSolutions_V230401.R,Failed
+7z3mk,t1-stan-5.R,Failed
+9mc84,preprocessing.R,Successful
+5xdbu,study2-rscript.R,Successful
+n7sep,code.R,Failed
+kgtx6,f_readRShare.R,Successful
+"p2xgq,""Analyses for revision 1, with pilot data and data cleaning.R"",Failed",nan,
+drv3a,illustration.R,Successful
+b4gc7,workshop_example.R,Failed
+mc26t,my_utils.R,Failed
+6pq9e,Model.R,Failed
+r24vb,clustering_syn_types.R,Failed
+cht59,01_tables_1_2.r,Failed
+fwc2p,Keuken_etal_UHF_MRI_review_analysis_script.r,Failed
+mp9td,is_hitname_in_range.R,Successful
+mp9td,Stats_Third.R,Successful
+mp9td,TablePrep_Third.R,Failed
+mp9td,interface.R,Failed
+mp9td,get_first_free_fi.R,Successful
+mp9td,get_gazeshift_latency.R,Successful
+mp9td,get_looks.R,Successful
+mp9td,preflight.r,Successful
+n3zfp,Aesthetic-Fidelity-Effect-Statistical Analyses.r,Failed
+rmcuy,Fig. 4 - Simulation_model_outline_AT_LM.r,Failed
+tbczv,01-readData.r,Failed
+tbczv,TRDM-functions.r,Successful
+tbczv,pmwgDIC.r,Successful
+tbczv,02-exclCriteria.r,Failed
+tbczv,exp1bDead-MNL-SAT-A.r,Failed
+tbczv,exp1aDead-MNL-SAT-A.r,Failed
+vjeb3,draw.2.w.int.bw.1.cov.and.1.fac.r,Successful
+vjeb3,boot_glmm.r,Successful
+vjeb3,diagnostic_fcns.r,Successful
+vjeb3,helpers.r,Successful
+wbyj7,Exp1-LBA-null.r,Failed
+wbyj7,read-data-Exp1.r,Successful
+wbyj7,pmwg-DIC.r,Successful
+zhf98,abstract ratings analysis.r,Failed
+skp56,CSEP_DataScienceExPhys_Akerman2021.R,Failed
+skp56,CSEP_DataScienceExPhys_DataGen_Akerman.R,Failed
+dkq3f,eda_brms.R,Failed
+w97h4,Paper_functions.R,Successful
+4kmdv,analysis code.R,Failed
+5ejcq,data_preperation_functions.R,Successful
+fsbzw,plot.fix.e1.R,Successful
+fsbzw,functions.R,Successful
+7vbtr,Gyurkovics_Stafford_Levita_analyses.R,Failed
+f6qsk,analysis_exp1.R,Failed
+f6qsk,analysis_exp2.R,Failed
+74qnu,Script_Predicting_Social_Skill_Expression.R,Failed
+"qsa5w,""qsa5w_src/IRT Paper, Data and R Code/SRIS, Full Scale IRT Models and Plots.R"",Failed",nan,
+dkrhy,BICB Rasch Models and Plots.R,Failed
+9jzfr,20180513 Study 3 Analysis.R,Failed
+8fsbd,IMDB_analysis.r,Failed
+9vn68,Syntax_Sib paper 1_final_2021-02-12.R,Failed
+p46mb,U-Pb Geochronology Scripts.R,Failed
+srbcf,R_KM Curve Code.R,Failed
+a6tuw,Online supplementary R-script c-surf samples.R,Failed
+dh32q,Positivity ratings R script.R,Failed
+xuz8d,Thesis ML R Code.R,Failed
+vy763,A closer look at fixed-effects regression in sem_supplementary materials.R,Failed
+kpe75,analysis.R,Failed
+mj5nh,education networks at least 6.R,Failed
+mj5nh,political knowledge estimate centrality defaults at least 6.R,Failed
+mj5nh,education estimate centrality defaults.R,Failed
+3uyjt,preprocessing_hrs.R,Failed
+3uyjt,tree.R,Failed
+975k3,validation.med.R,Successful
+"jhyu9,""jhyu9_src/ML-RSA for a level-1 and a level-2 congruence variable (Bleidorn et al., 2016)/example_Rcode_mlrsa_osf_oneL1pred.R"",Failed",nan,
+jpxts,Data_Prep_S1S2.R,Failed
+jpxts,Main Tables.R,Failed
+6krj7,01_add lag vars.R,Failed
